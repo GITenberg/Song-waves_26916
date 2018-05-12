@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32326
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Harding_Rand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26916#Song-waves
 gutenberg_issued: '2008-10-14'
 gutenberg_type: Text
 identifiers:
